@@ -8,7 +8,7 @@
 // numberprint();
 
 class shape{
-    square(){
+    constructor(){
         this.width = 10;
         this.height = 15;
     }
@@ -20,5 +20,5 @@ class shape{
 }
 
 const result = new shape();
-result.square();
+// result.square();
 result.showshape();
