@@ -18,11 +18,11 @@ The `code` folder contains the following programs:
 
 | File                  | Description                             |
 | --------------------- | --------------------------------------- |
-| `count_vowel.js`      | Counts the number of vowels in a string |
-| `even_check.js`       | Checks whether a number is even         |
-| `largest_number.js`   | Finds the largest number                |
-| `remove_duplicate.js` | Removes duplicate values                |
-| `reverse_string.js`   | Reverses a string                       |
+| count_vowel.js        | Counts the number of vowels in a string |
+| even_check.js         | Checks whether a number is even         |
+| largest_number.js     | Finds the largest number                |
+| remove_duplicate.js   | Removes duplicate values                |
+| reverse_string.js     | Reverses a string                       |
 
 ## How to Run
 
