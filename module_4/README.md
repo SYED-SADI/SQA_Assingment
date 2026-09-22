@@ -39,7 +39,3 @@ Replace `count_vowel.js` with the name of any other JavaScript file.
 ## Assignment
 
 The Module 4 assignment document is also included in this folder.
-
-**Student:** Syed Al Sadi
-**Batch:** 21
-**Language:** JavaScript
